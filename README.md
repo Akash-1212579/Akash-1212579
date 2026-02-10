@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/akash-dalbhanjan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akash-dalbhanjan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/akash-dalbhanjan-a04a31236" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akash-dalbhanjan-a04a31236" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
